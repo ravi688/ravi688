@@ -12,3 +12,13 @@ I believe, many scientific concepts can be understood and analysed more convenie
 [Spectrum Graphics Engine](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 
 [GLSLang](https://github.com/KhronosGroup/glslang) // Contributer
+
+## Academic Knowledge Areas
+- [x] Computer Networking
+- [x] Operating Systems
+- [x] Compilers
+- [x] CPU and GPU Architecture
+- [x] Computer Graphics, Linear Algebra and 3D Mathematics
+- [x] Data Structures and Algorithms
+- [ ] Discrete Mathematics
+- [ ] Digital Logic
