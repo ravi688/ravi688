@@ -13,7 +13,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 
 [GLSLang](https://github.com/KhronosGroup/glslang) // Contributer
 
-## What tools and programming languages I use?
+## What tools and programming languages do I use?
 - LibreOffice Writer : For writing technical design documents
 - C and C++ : For writing high performance code in SGE and other projects
 - Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
