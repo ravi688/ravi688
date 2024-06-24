@@ -9,9 +9,15 @@ My ultimate goal in GPU software engineering is to develop GPU Computing and Ren
 I believe, many scientific concepts can be understood and analysed more conveniently with the help of GPUs and Extensive Software Support which is user friendly and doesn't require much technical in-depth knowledge.
 
 ## Key Projects
-[Spectrum Graphics Engine](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
+[Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 
 [GLSLang](https://github.com/KhronosGroup/glslang) // Contributer
+
+## What tools and programming languages I use?
+- LibreOffice Writer : For writing technical design documents
+- C and C++ : For writing high performance code in SGE and other projects
+- Bugzilla: Bugzilla server for bug-tracking
+- Gitlab: Gitlab instance for hosting mirror repositories and their internal CI/CD
 
 ## Academic Knowledge Areas
 - [x] Computer Networking
