@@ -19,6 +19,8 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
 - Bugzilla: Bugzilla server for bug-tracking
 - Gitlab: Gitlab instance for hosting mirror repositories and their internal CI/CD
+- Git: For source code management
+- Python: For automating thigs like adding notice in each source file or creating gdb pretty printers.
 
 ## Academic Knowledge Areas
 - [x] Computer Networking
