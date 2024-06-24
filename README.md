@@ -16,6 +16,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 ## What tools and programming languages I use?
 - LibreOffice Writer : For writing technical design documents
 - C and C++ : For writing high performance code in SGE and other projects
+- Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
 - Bugzilla: Bugzilla server for bug-tracking
 - Gitlab: Gitlab instance for hosting mirror repositories and their internal CI/CD
 
