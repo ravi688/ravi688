@@ -11,7 +11,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 ## Key Projects
 [Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 
-[GLSLang](https://github.com/KhronosGroup/glslang) // Contributer
+[GLSLang](https://github.com/KhronosGroup/glslang) // I try to contribute to this project whenever a bug interests me in it
 
 ## What tools and programming languages do I use?
 - LibreOffice Writer : For writing technical design documents
