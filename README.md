@@ -12,7 +12,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 #### [Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 - A low level graphics engine built on Vulkan API
 - SUTK - a UI library made on top of SGE, now a subproject in the same directory (VulkanRenderer/sutk)
-#### [Scalable KVM Over IP](https://github.com/ravi688/SKVMOIP) // Owner and the only developer/maintiner of the project
+#### [Scalable KVM Over IP](https://github.com/ravi688/SKVMOIP) // Owner and the only developer/maintainer of the project
 - This project allows us to fully replay keyboard and mouse inputs and get video output in real-time
 - Works even in BIOS!
 #### [GLSLang](https://github.com/KhronosGroup/glslang) // I try to contribute to this project whenever a bug interests me in it
