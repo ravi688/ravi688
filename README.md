@@ -34,5 +34,6 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - [x] CPU and GPU Architecture
 - [x] Computer Graphics, Linear Algebra and 3D Mathematics
 - [x] Data Structures and Algorithms
+- [x] Software Engineering
 - [ ] Discrete Mathematics
 - [ ] Digital Logic
