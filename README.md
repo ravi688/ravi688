@@ -15,6 +15,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 #### [Scalable KVM Over IP](https://github.com/ravi688/SKVMOIP) // Owner and the only developer/maintainer of the project
 - This project allows us to fully replay keyboard and mouse inputs and get video output in real-time
 - Works even in BIOS!
+- Cheaper than PiKVM for multiple machines
 #### [GLSLang](https://github.com/KhronosGroup/glslang) // I try to contribute to this project whenever a bug interests me in it
 
 ## What tools and programming languages do I use?
