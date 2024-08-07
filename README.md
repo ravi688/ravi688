@@ -1,7 +1,7 @@
 # RP Singh
 
 ## Introduction
-I'm a GPU Software Engineer who has excellent understanding and hands on experience of Vulkan API, GPU Computing Model, 3D Rendering, and 3D Mathematics.
+I'm a GPU Software Engineer who has excellent understanding and hands on experience of C, C++, Vulkan API, GPU Computing Model, 3D Rendering, and 3D Mathematics.
 I've worked on GPU Compilers based on LLVM, and 3D Renderer based on Vulkan API. In Open Source world, I sometimes contribute to Glslang Project which is a GLSL frontend for SPIR-V.
 
 ## Goal in the Engineering and Research Career
