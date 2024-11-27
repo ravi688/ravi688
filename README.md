@@ -23,6 +23,8 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - C and C++ : For writing high performance code in SGE and other projects
 - GDB : for debugging C/C++ code
 - GNU Make : for building C/C++ projects
+- Bash Script: for complementing GNU Make
+- Pkg Config: For packaging C/C++ projects and using them as dependencies
 - Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
 - Bugzilla: Bugzilla server for bug-tracking
 - Gitlab: Gitlab instance for hosting mirror repositories and their internal CI/CD
