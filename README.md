@@ -1,4 +1,4 @@
-# RP Singh
+# Ravi Prakash Singh
 
 ## Introduction
 I'm a GPU Software Engineer who has excellent understanding and hands on experience of C, C++, Vulkan API, GPU Computing Model, 3D Rendering, and 3D Mathematics.
