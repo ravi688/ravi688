@@ -41,3 +41,6 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - [x] Software Engineering
 - [ ] Discrete Mathematics
 - [ ] Digital Logic
+
+## Social Media
+[<img src="https://github.com/ravi688/ravi688/blob/main/LI-Logo.png" width="100"/>](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ravi-prakash-singh)
