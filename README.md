@@ -23,6 +23,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - C and C++ : For writing high performance code in SGE and other projects
 - GDB : for debugging C/C++ code
 - GNU Make : for building C/C++ projects
+- Catch2: For writing unit tests
 - Bash Script: for complementing GNU Make
 - Pkg Config: For packaging C/C++ projects and using them as dependencies
 - Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
