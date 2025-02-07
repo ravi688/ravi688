@@ -36,13 +36,13 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - Python: For automating thigs like adding notice in each source file or creating gdb pretty printers.
 
 ## Academic Knowledge Areas
-- [x] Computer Networking
-- [x] Operating Systems
+- [x] Computer Networking (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZT3dp5ZzXNMsTsuvQfOT2K4I8coOfou4z3X)
+- [x] Operating Systems (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZT3dp5ZzXNMsTsuvQfOT2K4I8coOfou4z3X)
 - [x] Compilers
 - [x] CPU and GPU Architecture
 - [x] Computer Graphics, Linear Algebra and 3D Mathematics
 - [x] Data Structures and Algorithms
-- [x] Software Engineering
+- [x] Software Engineering (My Handwritten Notes: https://u.pcloud.link/publink/show?code=XZT3dp5ZzXNMsTsuvQfOT2K4I8coOfou4z3X)
 - [ ] Discrete Mathematics
 - [ ] Digital Logic
 
