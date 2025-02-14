@@ -16,7 +16,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - This project allows us to fully replay keyboard and mouse inputs and get video output in real-time
 - Works even in BIOS!
 - Cheaper than PiKVM for multiple machines
-#### [Build Master](https://github.com/ravi688/BuildMaster/)
+#### [Build Master](https://github.com/ravi688/BuildMaster/) // Owner and the only developer/maintainer of the project
 - A wrapper around meson build system specifically for C/C++ projects
 - Its main goal is to make it easy to build, test, package and deploy a C/C++ software, whether it is a library or executable.
 #### [GLSLang](https://github.com/KhronosGroup/glslang) // I try to contribute to this project whenever a bug interests me in it
