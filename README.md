@@ -35,7 +35,7 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - Git: For source code management
 - Python: For automating thigs like adding notice in each source file or creating gdb pretty printers.
 
-## Academic Knowledge Areas
+## Academic (and Practical) Knowledge Areas
 - [x] Computer Networking (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZMrdp5Z2qzgt6DvfgBzzlloQWFjLfLoyOck)
 - [x] Operating Systems (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZprdp5ZjqgH1vvAt9u61BRCcbjbRuzS4Ok7)
 - [x] Compilers
@@ -45,6 +45,19 @@ I believe, many scientific concepts can be understood and analysed more convenie
 - [x] Software Engineering (My Handwritten Notes: https://u.pcloud.link/publink/show?code=XZT3dp5ZzXNMsTsuvQfOT2K4I8coOfou4z3X)
 - [ ] Discrete Mathematics
 - [ ] Digital Logic
+
+## Specialization Areas
+- [x] GPU Programming using Vulkan
+- [x] Software Architecting and Engineering in C and C++
+- [x] Multi-computer systems ([SKVMOIP](https://github.com/ravi688/SKVMOIP.git), [PDV](https://github.com/ravi688/PDV.git)
+- [x] GUI Library Design and Implementation in C++ ([SUTK](https://github.com/ravi688/VulkanRenderer/tree/main/sutk))
+- [x] Compiler Frontend Design and Implementation (Parsing, IR Codegen)
+
+## TODO
+- [ ] Fine-grain Multi-threading, and Multi-threaded data structures and algorithms ([Repo](https://github.com/ravi688/AsyncProgCpp))
+- [ ] Advanced Linear Algebra and relavant numerical computations (Machine Learning algorithms)
+- [ ] Multivariable Calculus, ODE, PDE, and relavant numerical computations (Solvers, Jacobians)
+- [ ] Scientific Computing and ML/AI Fundamentals
 
 ## Social Media
 [<img src="https://github.com/ravi688/ravi688/blob/main/LI-Logo.png" width="100"/>](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ravi-prakash-singh)       [<img src="https://github.com/ravi688/ravi688/blob/main/YouTube_Logo_2017.svg" width="100"/>](https://www.youtube.com/@phymacillustrator/videos)
