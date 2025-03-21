@@ -4,10 +4,6 @@
 I'm a GPU Software Engineer who has excellent understanding and hands on experience of C, C++, Vulkan API, GPU Computing Model, 3D Rendering, and 3D Mathematics.
 I've worked on GPU Compilers based on LLVM, and 3D Renderer based on Vulkan API. In Open Source world, I sometimes contribute to Glslang Project which is a GLSL frontend for SPIR-V.
 
-## Goal in the Engineering and Research Career
-My ultimate goal in GPU software engineering is to develop GPU Computing and Rendering frameworks for Scientific Visualizations and Simulations which will be available free of cost for anybody anywhere in the world.
-I believe, many scientific concepts can be understood and analysed more conveniently with the help of GPUs and Extensive Software Support which is user friendly and doesn't require much technical in-depth knowledge.
-
 ## Key Projects
 #### [Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 - A low level graphics engine built on Vulkan API
@@ -22,21 +18,26 @@ I believe, many scientific concepts can be understood and analysed more convenie
 #### [GLSLang](https://github.com/KhronosGroup/glslang) // I try to contribute to this project whenever a bug interests me in it
 
 ## What tools and programming languages do I use?
-- LibreOffice Writer : For writing technical design documents
-- C and C++ : For writing high performance code in SGE and other projects
-- GDB : for debugging C/C++ code
-- GNU Make : for building C/C++ projects
-- Catch2: For writing unit tests
-- Bash Script: for complementing GNU Make
-- Pkg Config: For packaging C/C++ projects and using them as dependencies
-- Vulkan: For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP)
-- Bugzilla: Bugzilla server for bug-tracking
-- Gitlab: Gitlab instance for hosting mirror repositories and their internal CI/CD
-- Git: For source code management
-- Python: For automating thigs like adding notice in each source file or creating gdb pretty printers.
+| Tool/Tech | What I use it for? |
+|------------|--------------------|
+| LibreOffice Writer | For writing technical design documents |
+| C and C++  | For writing high performance code in SGE and other projects |
+| GDB | for debugging C/C++ code |
+| GNU Make | for building C/C++ projects |
+| Catch2 | For writing unit tests |
+| Bash Scripts | for complementing GNU Make |
+| Pkg Config | For packaging C/C++ projects and using them as dependencies |
+| Meson/BuildMaster | Building system for my projects | 
+| Vulkan | For GPU Accelerated programming, see: [SKVMOIP](https://github.com/rav688/SKVMOIP) |
+| Bugzilla | Bugzilla server for bug-tracking |
+| Gitlab | Gitlab self-hosted instance for Git repo hosting and DevOps (CI/CD pipelines) |
+| Git | For source version control |
+| Python | For process level unit testing, and automating things like adding notice in each source file or creating gdb pretty printers |
+| Docker | For hosting web services on my internal servers |
+| Vagrant | For creating instant virtual machines and doing some testing in them |
 
 ## Academic (and Practical) Knowledge Areas
-- [x] Computer Networking (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZMrdp5Z2qzgt6DvfgBzzlloQWFjLfLoyOck)
+- [x] Computer Networking (Handwritten Notes & Solutions https://u.pcloud.link/publink/show?code=XZMrdp5Z2qzgt6DvfgBzzlloQWFjLfLoyOck)
 - [x] Operating Systems (Handwritten Notes & Solutions: https://u.pcloud.link/publink/show?code=XZprdp5ZjqgH1vvAt9u61BRCcbjbRuzS4Ok7)
 - [x] Compilers
 - [x] CPU and GPU Architecture
