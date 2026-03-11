@@ -1,9 +1,5 @@
 # Ravi Prakash Singh
 
-## Introduction
-I'm a GPU Software Engineer who has excellent understanding and hands on experience of C, C++, Vulkan API, GPU Computing Model, 3D Rendering, and 3D Mathematics.
-I've worked on GPU Compilers based on LLVM, and 3D Renderer based on Vulkan API. In Open Source world, I sometimes contribute to Glslang Project which is a GLSL frontend for SPIR-V.
-
 ## Key Projects
 #### [Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
 - A low level graphics engine built on Vulkan API
