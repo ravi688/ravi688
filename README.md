@@ -1,4 +1,4 @@
-# Ravi Prakash Singh
+# Ravi Singh
 
 ## Key Projects
 #### [Spectrum Graphics Engine (SGE)](https://github.com/ravi688/VulkanRenderer) // Owner and the only developer/maintainer of the project
